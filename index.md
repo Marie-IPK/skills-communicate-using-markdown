@@ -5,3 +5,6 @@
 import pandas as pd
 data = pd.read_csv('Dataset.csv')
 ```
+- [ ] Learn Python
+- [ ] Learn SQL
+- [ ] Learn AI
